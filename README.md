@@ -6,3 +6,7 @@ Built with [@indoorequal/vue-maplibre-gl](https://indoorequal.github.io/vue-mapl
 npm install
 npm dev
 ```
+demo
+```sh
+https://magnificent-valkyrie-0a45d8.netlify.app/ 
+```
