@@ -12,7 +12,7 @@ const toast = useToast();
 const updatePosition = async () => {
 
   try {
-    const response = await axios.get(`/api`);
+    const response = await axios.get(`/api/`);
     const issPositon = response.data;
     const lat = issPositon.iss_position.latitude;
     const long = issPositon.iss_position.longitude;
